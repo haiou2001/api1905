@@ -12,7 +12,7 @@ class TestController extends Controller
         echo '<pre>';print_r($_SERVER);echo '</pre>';
     }
     /**
-     * 用户注册
+     * 用户注册111
      */
     public function reg(Request $request)
     {
